@@ -1,0 +1,10 @@
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.FormPayroll.resources
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.Properties.Resources.resources
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\PayrollProject\bin\Debug\PayrollProject.exe.config
+C:\Users\student\Source\Repos\PayrollProject\bin\Debug\PayrollProject.exe
+C:\Users\student\Source\Repos\PayrollProject\bin\Debug\PayrollProject.pdb
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.exe
+C:\Users\student\Source\Repos\PayrollProject\obj\Debug\PayrollProject.pdb
