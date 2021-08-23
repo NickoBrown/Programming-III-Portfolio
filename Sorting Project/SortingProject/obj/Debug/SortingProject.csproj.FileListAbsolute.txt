@@ -1,7 +1,0 @@
-C:\Users\student\Source\Repos\SortingProject\bin\Debug\SortingProject.exe.config
-C:\Users\student\Source\Repos\SortingProject\bin\Debug\SortingProject.exe
-C:\Users\student\Source\Repos\SortingProject\bin\Debug\SortingProject.pdb
-C:\Users\student\Source\Repos\SortingProject\obj\Debug\SortingProject.csprojAssemblyReference.cache
-C:\Users\student\Source\Repos\SortingProject\obj\Debug\SortingProject.csproj.CoreCompileInputs.cache
-C:\Users\student\Source\Repos\SortingProject\obj\Debug\SortingProject.exe
-C:\Users\student\Source\Repos\SortingProject\obj\Debug\SortingProject.pdb
